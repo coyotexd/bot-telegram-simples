@@ -17,6 +17,8 @@ pip3 install telethon
 
 para executar o bot, use python3 bot.py
 
+------------------------------------------
+
 instalação [termux]([https://github.com](https://termux.softonic.com.br/android)) (android)
 
 pkg update
