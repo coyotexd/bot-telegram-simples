@@ -33,3 +33,5 @@ pip --version
 
 pip install telethon
 
+para executar o bot, use python bot.py
+
