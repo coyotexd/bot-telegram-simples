@@ -20,4 +20,4 @@ async def main():
 	
 client.loop.run_until_complete(main())
 
-##by coyote @desmarcado
+##by coyote##
